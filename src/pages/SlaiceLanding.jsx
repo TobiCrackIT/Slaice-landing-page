@@ -1,5 +1,5 @@
 import tokens from "../styles/tokens";
-import CornerBlobs from "../components/CornerBlobs";
+import CornerBlobs from "../components/Cornerblobs";
 import Headbar from "../components/Headbar";
 import Hero from "../components/Hero";
 
